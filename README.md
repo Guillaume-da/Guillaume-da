@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Guillaume
-#### I am a Junior Developer from France
-Looking for work
+#### I am a Junior Developer from France looking for work
 
 Skills: VUE JS / WORDPRESS / PHP / JS / HTML / CSS
 
