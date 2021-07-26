@@ -11,9 +11,9 @@ Skills: VUE JS / WORDPRESS / PHP / SQL / JS / HTML / CSS
 
 ## ⚡ Technologies
 
+![Vue](https://img.shields.io/badge/-Vue.js-181717?style=flat-square&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=php)
-![Vue](https://img.shields.io/badge/-Vue.js-181717?style=flat-square&logo=vue.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-181717?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
