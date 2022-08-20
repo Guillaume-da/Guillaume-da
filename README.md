@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Guillaume
 #### I am a Frontend Developer from France
 
-My favorite framework is React, my favourite lenguage is JS with Typescript, I like to work with styled components or Tailwind but I am a Sass lover too. I also have some backend skills and I'm thinking learn Node JS. 
+My favorite framework is React, my favorite lenguage is JS with Typescript, I like to work with styled components or Tailwind but I am a Sass lover too. I also have some backend skills and I'm thinking learn Node JS. 
 
 Welcome !
 
