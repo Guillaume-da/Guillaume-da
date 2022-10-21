@@ -14,7 +14,6 @@ Welcome !
 ## ⚡ Technologies
 
 ![React](https://img.shields.io/badge/-React.js-181717?style=flat-square&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-181717?style=flat-square&logo=typescript)
 ![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
 ![Vue](https://img.shields.io/badge/-Vue.js-181717?style=flat-square&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
