@@ -1,9 +1,5 @@
-### Hi there 👋, my name is Guillaume
-#### I am a Frontend Developer from France
+### Hi there 👋
 
-My favorite framework is React, my favorite lenguage is JS, I like to work with Styled components or Tailwind but I am a Sass lover too. I also have some backend skills and I'm thinking learn Node JS. 
-
-Welcome !
 
 [![Linkedin Badge](https://img.shields.io/badge/-GuillaumeDallolmo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-dall-olmo-509aaa1b4/)](https://www.linkedin.com/in/guillaume-dall-olmo-509aaa1b4/)
 [![Gmail Badge](https://img.shields.io/badge/-guillaume.dallolmo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillaume.dallolmo@gmail.com)](mailto:guillaume.dallolmo@gmail.com)
