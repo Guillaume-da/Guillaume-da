@@ -12,7 +12,6 @@
 ## 🚀 About me
  
 - 💼 Full-stack developer working with **Next.js** and **C#/.NET**
-- 🛠️ Currently building **ArchDrift** — a tool that detects drift between a repo's declared architecture and its actual codebase (static analysis)
 - 🤖 Heavy user of AI-assisted development workflows (**Claude Code** enthusiast)
 - 🌱 Always exploring: developer tooling, SaaS product design, agentic workflows
 ## ⚡ Tech stack
