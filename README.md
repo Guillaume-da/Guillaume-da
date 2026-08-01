@@ -43,7 +43,7 @@
 ## 📊 GitHub stats
  
 <div align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Guillaume-da&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-da&theme=github_dark&hide=TeX&layout=compact&hide_border=true&langs_count=6&card_width=250)
+![Github Stats]
+![Top Langs]
  
 </div>
