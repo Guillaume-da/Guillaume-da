@@ -23,7 +23,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs)
  
 **Backend & data**
  
