@@ -1,21 +1,50 @@
-### Hi there 👋
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-GuillaumeDallolmo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillaume-dall-olmo-509aaa1b4/)](https://www.linkedin.com/in/guillaume-dall-olmo-509aaa1b4/)
-[![Gmail Badge](https://img.shields.io/badge/-guillaume.dallolmo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guillaume.dallolmo@gmail.com)](mailto:guillaume.dallolmo@gmail.com)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Guillaume-da&theme=github_dark&show_icons=true&count_private=true&show_icons=true&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-da&theme=github_dark&hide=TeX&layout=compact&hide_border=true&langs_count=5&card_width=250)
-
-## ⚡ Technologies
-
-![React](https://img.shields.io/badge/-React.js-181717?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-181717?style=flat-square&logo=redux)
-![Vue](https://img.shields.io/badge/-Vue.js-181717?style=flat-square&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-181717?style=flat-square&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-181717?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-181717?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-181717?style=flat-square&logo=linux)
-
+<div align="center">
+# Hi there, I'm Guillaume 👋
+ 
+**Full-stack developer** · React / Next.js / TypeScript / C#
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Guillaume%20Dall'Olmo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guillaume-dall-olmo-509aaa1b4/)
+[![Gmail Badge](https://img.shields.io/badge/-guillaume.dallolmo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:guillaume.dallolmo@gmail.com)
+ 
+</div>
+---
+ 
+## 🚀 About me
+ 
+- 💼 Full-stack developer working with **Next.js** and **C#/.NET**
+- 🛠️ Currently building **ArchDrift** — a tool that detects drift between a repo's declared architecture and its actual codebase (static analysis)
+- 🤖 Heavy user of AI-assisted development workflows (**Claude Code** enthusiast)
+- 🌱 Always exploring: developer tooling, SaaS product design, agentic workflows
+## ⚡ Tech stack
+ 
+**Frontend**
+ 
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=vuedotjs)
+ 
+**Backend & data**
+ 
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ 
+**Tools & platforms**
+ 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+ 
+## 📊 GitHub stats
+ 
+<div align="center">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Guillaume-da&theme=github_dark&show_icons=true&count_private=true&hide_border=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guillaume-da&theme=github_dark&hide=TeX&layout=compact&hide_border=true&langs_count=6&card_width=250)
+ 
+</div>
